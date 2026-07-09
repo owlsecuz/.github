@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="../assets/logo.svg" width="140" alt="OwlSec Logo">
-</p>
+<img src="https://raw.githubusercontent.com/owlsecuz/.github/main/assets/logo.svg" width="140">
 
 # OwlSec Uzbekistan
 
